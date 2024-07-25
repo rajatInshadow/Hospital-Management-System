@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E17192-05FA-4EC0-B58F-F212D6144E41}|Hospital.web\\Hospital.Web.csproj|c:\\users\\dell\\source\\repos\\hospital\\hospital.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{03E17192-05FA-4EC0-B58F-F212D6144E41}|Hospital.web\\Hospital.Web.csproj|solutionrelative:hospital.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E17192-05FA-4EC0-B58F-F212D6144E41}|Hospital.web\\Hospital.Web.csproj|c:\\users\\dell\\source\\repos\\hospital\\hospital.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E17192-05FA-4EC0-B58F-F212D6144E41}|Hospital.web\\Hospital.Web.csproj|solutionrelative:hospital.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA9677D-2151-4A28-BA7D-CAABC1347CEA}|Hospital.Repositories\\Hospital.Repositories.csproj|c:\\users\\dell\\source\\repos\\hospital\\hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA9677D-2151-4A28-BA7D-CAABC1347CEA}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA9677D-2151-4A28-BA7D-CAABC1347CEA}|Hospital.Repositories\\Hospital.Repositories.csproj|c:\\users\\dell\\source\\repos\\hospital\\hospital.repositories\\hospital.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCA9677D-2151-4A28-BA7D-CAABC1347CEA}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\hospital.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E17192-05FA-4EC0-B58F-F212D6144E41}|Hospital.web\\Hospital.Web.csproj|c:\\users\\dell\\source\\repos\\hospital\\hospital.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03E17192-05FA-4EC0-B58F-F212D6144E41}|Hospital.web\\Hospital.Web.csproj|solutionrelative:hospital.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E17192-05FA-4EC0-B58F-F212D6144E41}|Hospital.web\\Hospital.Web.csproj|c:\\users\\dell\\source\\repos\\hospital\\hospital.web\\hospital.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03E17192-05FA-4EC0-B58F-F212D6144E41}|Hospital.web\\Hospital.Web.csproj|solutionrelative:hospital.web\\hospital.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Hospital\\Hospital.web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Hospital.web\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Hospital\\Hospital.web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Hospital.web\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-23T10:00:03.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Hospital\\Hospital.web\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital.web\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Hospital\\Hospital.web\\Program.cs",
+              "RelativeToolTip": "Hospital.web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:33:28.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hospital.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Hospital\\Hospital.web\\Hospital.Web.csproj",
+              "RelativeDocumentMoniker": "Hospital.web\\Hospital.Web.csproj",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Hospital\\Hospital.web\\Hospital.Web.csproj",
+              "RelativeToolTip": "Hospital.web\\Hospital.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T09:31:11.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Hospital\\Hospital.web\\appsettings.json",
+              "RelativeDocumentMoniker": "Hospital.web\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Hospital\\Hospital.web\\appsettings.json",
+              "RelativeToolTip": "Hospital.web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T09:25:38.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hospital.Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Hospital\\Hospital.Repositories\\Hospital.Repositories.csproj",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\Hospital.Repositories.csproj",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Hospital\\Hospital.Repositories\\Hospital.Repositories.csproj",
+              "RelativeToolTip": "Hospital.Repositories\\Hospital.Repositories.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T09:17:34.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Hospital\\Hospital.Repositories\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Hospital\\Hospital.Repositories\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Hospital.Repositories\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:18:42.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
